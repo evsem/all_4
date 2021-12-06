@@ -1,0 +1,14 @@
+{
+  "name": "all_4",
+  "version": "1.0.0",
+  "description": "",
+  "main": "allScript.js",
+  "scripts": {
+    "test": "unit"
+  },
+  "keywords": [
+    "js"
+  ],
+  "author": "evsem",
+  "license": "ISC"
+}
